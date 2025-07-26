@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am an Electrical Engineering student at UC Davis.
+
+I love building any kind of software (web, mobile, games, firmware, etc).
+
+I hope that you can find something that interests you around here.
+
 <!--
 **gutsyguy/gutsyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
